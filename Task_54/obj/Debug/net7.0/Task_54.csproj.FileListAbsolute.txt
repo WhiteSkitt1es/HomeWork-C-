@@ -1,0 +1,15 @@
+/Users/vado/Desktop/HomeWork C#/Task_54/bin/Debug/net7.0/Task_54
+/Users/vado/Desktop/HomeWork C#/Task_54/bin/Debug/net7.0/Task_54.deps.json
+/Users/vado/Desktop/HomeWork C#/Task_54/bin/Debug/net7.0/Task_54.runtimeconfig.json
+/Users/vado/Desktop/HomeWork C#/Task_54/bin/Debug/net7.0/Task_54.dll
+/Users/vado/Desktop/HomeWork C#/Task_54/bin/Debug/net7.0/Task_54.pdb
+/Users/vado/Desktop/HomeWork C#/Task_54/obj/Debug/net7.0/Task_54.csproj.AssemblyReference.cache
+/Users/vado/Desktop/HomeWork C#/Task_54/obj/Debug/net7.0/Task_54.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vado/Desktop/HomeWork C#/Task_54/obj/Debug/net7.0/Task_54.AssemblyInfoInputs.cache
+/Users/vado/Desktop/HomeWork C#/Task_54/obj/Debug/net7.0/Task_54.AssemblyInfo.cs
+/Users/vado/Desktop/HomeWork C#/Task_54/obj/Debug/net7.0/Task_54.csproj.CoreCompileInputs.cache
+/Users/vado/Desktop/HomeWork C#/Task_54/obj/Debug/net7.0/Task_54.dll
+/Users/vado/Desktop/HomeWork C#/Task_54/obj/Debug/net7.0/refint/Task_54.dll
+/Users/vado/Desktop/HomeWork C#/Task_54/obj/Debug/net7.0/Task_54.pdb
+/Users/vado/Desktop/HomeWork C#/Task_54/obj/Debug/net7.0/Task_54.genruntimeconfig.cache
+/Users/vado/Desktop/HomeWork C#/Task_54/obj/Debug/net7.0/ref/Task_54.dll
