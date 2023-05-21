@@ -1,0 +1,30 @@
+/Users/vado/Desktop/HomeWork C# №1/Test_Code/bin/Debug/net7.0/Test_Code
+/Users/vado/Desktop/HomeWork C# №1/Test_Code/bin/Debug/net7.0/Test_Code.deps.json
+/Users/vado/Desktop/HomeWork C# №1/Test_Code/bin/Debug/net7.0/Test_Code.runtimeconfig.json
+/Users/vado/Desktop/HomeWork C# №1/Test_Code/bin/Debug/net7.0/Test_Code.dll
+/Users/vado/Desktop/HomeWork C# №1/Test_Code/bin/Debug/net7.0/Test_Code.pdb
+/Users/vado/Desktop/HomeWork C# №1/Test_Code/obj/Debug/net7.0/Test_Code.csproj.AssemblyReference.cache
+/Users/vado/Desktop/HomeWork C# №1/Test_Code/obj/Debug/net7.0/Test_Code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vado/Desktop/HomeWork C# №1/Test_Code/obj/Debug/net7.0/Test_Code.AssemblyInfoInputs.cache
+/Users/vado/Desktop/HomeWork C# №1/Test_Code/obj/Debug/net7.0/Test_Code.AssemblyInfo.cs
+/Users/vado/Desktop/HomeWork C# №1/Test_Code/obj/Debug/net7.0/Test_Code.csproj.CoreCompileInputs.cache
+/Users/vado/Desktop/HomeWork C# №1/Test_Code/obj/Debug/net7.0/Test_Code.dll
+/Users/vado/Desktop/HomeWork C# №1/Test_Code/obj/Debug/net7.0/refint/Test_Code.dll
+/Users/vado/Desktop/HomeWork C# №1/Test_Code/obj/Debug/net7.0/Test_Code.pdb
+/Users/vado/Desktop/HomeWork C# №1/Test_Code/obj/Debug/net7.0/Test_Code.genruntimeconfig.cache
+/Users/vado/Desktop/HomeWork C# №1/Test_Code/obj/Debug/net7.0/ref/Test_Code.dll
+/Users/vado/Desktop/HomeWork C#/Test_Code/bin/Debug/net7.0/Test_Code
+/Users/vado/Desktop/HomeWork C#/Test_Code/bin/Debug/net7.0/Test_Code.deps.json
+/Users/vado/Desktop/HomeWork C#/Test_Code/bin/Debug/net7.0/Test_Code.runtimeconfig.json
+/Users/vado/Desktop/HomeWork C#/Test_Code/bin/Debug/net7.0/Test_Code.dll
+/Users/vado/Desktop/HomeWork C#/Test_Code/bin/Debug/net7.0/Test_Code.pdb
+/Users/vado/Desktop/HomeWork C#/Test_Code/obj/Debug/net7.0/Test_Code.csproj.AssemblyReference.cache
+/Users/vado/Desktop/HomeWork C#/Test_Code/obj/Debug/net7.0/Test_Code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vado/Desktop/HomeWork C#/Test_Code/obj/Debug/net7.0/Test_Code.AssemblyInfoInputs.cache
+/Users/vado/Desktop/HomeWork C#/Test_Code/obj/Debug/net7.0/Test_Code.AssemblyInfo.cs
+/Users/vado/Desktop/HomeWork C#/Test_Code/obj/Debug/net7.0/Test_Code.csproj.CoreCompileInputs.cache
+/Users/vado/Desktop/HomeWork C#/Test_Code/obj/Debug/net7.0/Test_Code.dll
+/Users/vado/Desktop/HomeWork C#/Test_Code/obj/Debug/net7.0/refint/Test_Code.dll
+/Users/vado/Desktop/HomeWork C#/Test_Code/obj/Debug/net7.0/Test_Code.pdb
+/Users/vado/Desktop/HomeWork C#/Test_Code/obj/Debug/net7.0/Test_Code.genruntimeconfig.cache
+/Users/vado/Desktop/HomeWork C#/Test_Code/obj/Debug/net7.0/ref/Test_Code.dll
