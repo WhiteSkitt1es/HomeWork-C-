@@ -1,0 +1,15 @@
+/Users/vado/Desktop/HomeWork C# №1/Task_21/bin/Debug/net7.0/Task_21
+/Users/vado/Desktop/HomeWork C# №1/Task_21/bin/Debug/net7.0/Task_21.deps.json
+/Users/vado/Desktop/HomeWork C# №1/Task_21/bin/Debug/net7.0/Task_21.runtimeconfig.json
+/Users/vado/Desktop/HomeWork C# №1/Task_21/bin/Debug/net7.0/Task_21.dll
+/Users/vado/Desktop/HomeWork C# №1/Task_21/bin/Debug/net7.0/Task_21.pdb
+/Users/vado/Desktop/HomeWork C# №1/Task_21/obj/Debug/net7.0/Task_21.csproj.AssemblyReference.cache
+/Users/vado/Desktop/HomeWork C# №1/Task_21/obj/Debug/net7.0/Task_21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vado/Desktop/HomeWork C# №1/Task_21/obj/Debug/net7.0/Task_21.AssemblyInfoInputs.cache
+/Users/vado/Desktop/HomeWork C# №1/Task_21/obj/Debug/net7.0/Task_21.AssemblyInfo.cs
+/Users/vado/Desktop/HomeWork C# №1/Task_21/obj/Debug/net7.0/Task_21.csproj.CoreCompileInputs.cache
+/Users/vado/Desktop/HomeWork C# №1/Task_21/obj/Debug/net7.0/Task_21.dll
+/Users/vado/Desktop/HomeWork C# №1/Task_21/obj/Debug/net7.0/refint/Task_21.dll
+/Users/vado/Desktop/HomeWork C# №1/Task_21/obj/Debug/net7.0/Task_21.pdb
+/Users/vado/Desktop/HomeWork C# №1/Task_21/obj/Debug/net7.0/Task_21.genruntimeconfig.cache
+/Users/vado/Desktop/HomeWork C# №1/Task_21/obj/Debug/net7.0/ref/Task_21.dll
