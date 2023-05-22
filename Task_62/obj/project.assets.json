@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vado/Desktop/HomeWork C#/Task_62/Task_62.csproj",
+      "projectUniqueName": "/Users/vado/Desktop/Home Work C#/Task_62/Task_62.csproj",
       "projectName": "Task_62",
-      "projectPath": "/Users/vado/Desktop/HomeWork C#/Task_62/Task_62.csproj",
+      "projectPath": "/Users/vado/Desktop/Home Work C#/Task_62/Task_62.csproj",
       "packagesPath": "/Users/vado/.nuget/packages/",
-      "outputPath": "/Users/vado/Desktop/HomeWork C#/Task_62/obj/",
+      "outputPath": "/Users/vado/Desktop/Home Work C#/Task_62/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vado/.nuget/NuGet/NuGet.Config"
