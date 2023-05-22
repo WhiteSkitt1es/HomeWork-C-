@@ -6,5 +6,39 @@
 // 27(0,0,1) 90(0,1,1)
 // 26(1,0,1) 55(1,1,1)
 
-int [,,] massive = new int [2,2,2];
+int [,,] matrix = new int [2,2,2];
 
+void PrintArray(int[,,] matrix)
+{
+    for (int i = 0; i < matrix.GetLength(0); i++)
+    {
+        for (int j = 0; j < matrix.GetLength(1); j++)
+        {
+            for(int k = 0; k < matrix.GetLength(2); k++)
+            {
+                Console.Write($"{matrix[i,j,k]}({i},{j},{k}) ");
+            }
+            Console.WriteLine();
+        }
+
+    }
+}
+
+void FillArray(int[,,] matrix)
+{
+    int number = 10;
+
+    for (int i = 0; i < matrix.GetLength(0); i++)
+    {
+        for (int j = 0; j < matrix.GetLength(1); j++)
+        {
+            for (int k = 0; k < matrix.GetLength(2); k++)
+            {
+                matrix[i, j, k] = number += 1;
+            }
+        }
+    }
+}
+
+FillArray(matrix);
+PrintArray(matrix);
