@@ -26,7 +26,7 @@ void Printmatrix (int [,] matrix)
     }
 }
 
-void FillImage(int [,] matrix)
+void FillSpiral(int [,] matrix)
 {
     int count = 1;
     int i = 0;
@@ -47,5 +47,5 @@ void FillImage(int [,] matrix)
     }
 }
 
-FillImage(matrix);
+FillSpiral(matrix);
 Printmatrix(matrix);
