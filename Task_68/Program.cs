@@ -26,4 +26,4 @@ int Numbers (int m, int n)
     }
 }
 
-Console.WriteLine($"M = {m}; N = {n} -> {Numbers(m,n)}");
+Console.WriteLine($"M = {m}; N = {n} -> A(m,n) = {Numbers(m,n)}");
